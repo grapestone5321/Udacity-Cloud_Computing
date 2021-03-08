@@ -1,4 +1,4 @@
-# Udacity-Intro_to_Cloud_Computing
+# Udacity-Cloud_Computing
 Udacity-Intro_to_Cloud_Computing
 
 
@@ -44,6 +44,11 @@ The growth of Cloud Computing technology has created incredible demand for Cloud
 
 
 ## Spark
+
+
+-------
+
+## Deploying a Hadoop Cluster
 
 
 -------
